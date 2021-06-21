@@ -1,3 +1,37 @@
-.gio{
-	color: red;
+.block-1{
+	display: inline-block;
+}
+.photos{
+	display: inline-block;
+	margin-top: 94px;
+	margin-left: 43px;
+}
+.text{
+	display: inline-block;
+	margin-top: 94px;
+	margin-left: 39px;
+	width: 900px;
+	vertical-align: top;
+}
+.georgian-absolute{
+	font-family: "ArchyEDT-Bold", sans-serif;
+}
+.georgian-relativ{
+	margin-top: 30px;
+	font-family: "Arial GEO Italic", sans-serif;
+}
+.block-2{
+	display: inline-block;
+}
+.photos{
+	display: inline-block;
+	margin-top: 94px;
+	margin-left: 43px;
+}
+.english-absolute{
+	font-family: 'Viaoda Libre', cursive;
+}
+.english-relativ{
+	font-family: 'Dela Gothic One', cursive;
+	margin-top: 30px;
 }
